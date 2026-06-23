@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://GIGKOMUSIC.github.io/sitemap.xml
